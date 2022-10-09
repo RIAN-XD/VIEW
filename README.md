@@ -1,5 +1,7 @@
 download termux no eror [click here](https://f-droid.org/en/packages/com.termux/)
-#### langsung clone aja
+````
+pip install pystyle
+````
 ````
 git pull
 git clone https://github.com/RIAN-XD/VIEW
