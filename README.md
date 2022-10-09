@@ -12,7 +12,4 @@ python run.py
 ``
 Selamat menjalankan SC
 ``
-
-``
-Donasi pulsa : 085764058828
-``
+![](https://github.com/RIAN-XD/VIEW/blob/f448d62217a79c75e86ae1dd050a9eb3d360f664/Screenshot_2022-10-09-23-27-52-997_com.termux.jpg)
