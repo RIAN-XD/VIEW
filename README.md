@@ -1,3 +1,5 @@
+__jangan lupa kasih bintang 🌟__
+>
 download termux no eror [click here](https://f-droid.org/en/packages/com.termux/)
 ````
 pip install pystyle
