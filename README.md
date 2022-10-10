@@ -1,6 +1,6 @@
 Tik tok auto view
 --|
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-G10cUSa3-osD4H3hCTHV1_SjaYd-BOpsAw&usqp=CAU)
+![](https://images.squarespace-cdn.com/content/v1/589eb677e3df28dd5f0d5876/1571567768802-1UHHUJKTCEC0BA6PPJUX/tiktok.gif?format=1000w)
 _Gunakanlah tools ini dengan bijak_
 ____
 
