@@ -1,6 +1,7 @@
-__jangan lupa kasih bintang 🌟__
->
-download termux no eror [click here](https://f-droid.org/en/packages/com.termux/)
+[Kasih bintang repository saya]()
+--|
+
+
 ````
 pip install pystyle
 ````
