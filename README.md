@@ -22,4 +22,4 @@ Selamat menjalankan SC
 ``
 
 ____
-![](https://github.com/RIAN-XD/VIEW/blob/f448d62217a79c75e86ae1dd050a9eb3d360f664/Screenshot_2022-10-09-23-27-52-997_com.termux.jpg)
+![](https://github.com/RIAN-XD/VIEW/blob/cf06b3ec986cd874aad74e4545078b33e03c7e1e/carbon%20(1).png)
