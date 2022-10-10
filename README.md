@@ -1,6 +1,7 @@
-[Kasih bintang repository saya](https://github.com/RIAN-XD/VIEW)
+[Tik tok auto view](https://github.com/RIAN-XD/VIEW)
 --|
-
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-G10cUSa3-osD4H3hCTHV1_SjaYd-BOpsAw&usqp=CAU)
+____
 
 ````
 pip install pystyle
